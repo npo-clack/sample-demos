@@ -53,7 +53,7 @@ TODOリストを作成する。検索機能がついている。また、ロー�
 </p>
 
 ## ゲームエンジンを使ったゲーム
-[GitHubレポジトリはこちら]((https://github.com/npo-clack/pygame))
+[GitHubレポジトリはこちら](https://github.com/npo-clack/pygame)
 
 ### ブロック崩し
 ゲームエンジンpygameを使って2Dゲームの基本のブロック崩しを学ぶ。
