@@ -1,7 +1,7 @@
 # CLACKの教材サンプル一覧
 
 ## HTML,CSS,JSを使ったアプリやWebサイトのサンプル
-TRの延長としてHTML,CSS,JSを学ぶ。N予備校１章の知識を強化、習熟を目指す。
+TRの延長としてHTML,CSS,JSを学ぶ。N予備校１章の知識を強化、習熟を目指す。[GitHubレポジトリはこちら](https://github.com/npo-clack/levelups)
 
 ### [4択クイズアプリ](https://npo-clack.github.io/levelups/HTML,CSS,JS%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/4%E6%8A%9E%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%A2%E3%83%97%E3%83%AA/)
 ４択のクイズを複数連続で回答していく。
@@ -25,7 +25,7 @@ TODOリストを作成する。検索機能がついている。また、ロー�
 
 
 ## キャンバスを使った簡易ゲームサンプル
-[GitHubページはこちら](https://github.com/npo-clack/canvas-sample)
+既存のHTMLとは違い、ピクセルをごりごり動かせるキャンバスの使い方を学ぶ。[GitHubレポジトリはこちら](https://github.com/npo-clack/canvas-sample)
 
 ## [shoot-circle](https://npo-clack.github.io/canvas-sample/shoot-circle/index.html)
 canvasを使用して、画面上に円が描画される。
